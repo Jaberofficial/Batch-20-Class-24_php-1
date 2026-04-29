@@ -1,0 +1,10 @@
+
+
+PHP => Hypertext Pre Processor
+PHP => Personal Home Page (previous full form)
+
+Backend Language => Server->Database
+
+for(initialize;range/condition;increment){
+    //Statement.....
+}
